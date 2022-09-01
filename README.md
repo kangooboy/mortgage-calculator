@@ -6,7 +6,7 @@ __Description:__<br/>
 ___
 <h3 align="center">Functionality</h3>
 
-The application has two windows __MORTGAGE CALCULATOR__ and __EDIT BANK__.
+This application has two windows: __MORTGAGE CALCULATOR__ and __EDIT BANK__.
 
 All data is stored in the ___locale storage___ of __web browser.__
 
